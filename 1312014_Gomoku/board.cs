@@ -40,8 +40,8 @@ namespace _1312014_Gomoku
         int play = -1;
         static public int turn;
         #region
-        static public int _row = 20;
-        static public int _column = 20;
+        static public int _row = 18;
+        static public int _column = 18;
         int flag = 0;
 
 
